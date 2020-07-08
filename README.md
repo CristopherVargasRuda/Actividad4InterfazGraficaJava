@@ -4,8 +4,8 @@ Implementé los servicios de creación de objetos gráficos y de recursos para a
 
 login
 
-![login](./login.png)
+![login](./login.PNG)
 
 vista
 
-![vista](./vista.png)
+![vista](./vista.PNG)
